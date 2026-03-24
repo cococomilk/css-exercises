@@ -1,28 +1,16 @@
 /* Add CSS Styling */
 
-<<<<<<< HEAD
 .black
 .yellow {
-=======
-.button {
->>>>>>> b898c6abacac145d8c7e7e815a4c7777246212f9
     font-size: 28px;
     font-family: Helvetica, "Times New Roman", sans-serif;
 }
 
-<<<<<<< HEAD
 .black {
-=======
-#black-white {
->>>>>>> b898c6abacac145d8c7e7e815a4c7777246212f9
     background-color: black;
     color: white;
 }
 
-<<<<<<< HEAD
 .yellow {
-=======
-#yellow {
->>>>>>> b898c6abacac145d8c7e7e815a4c7777246212f9
     background-color: yellow;
 }
